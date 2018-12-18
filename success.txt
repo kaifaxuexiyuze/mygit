@@ -1,0 +1,3 @@
+this is a good day
+
+my first git practice work!
